@@ -1,4 +1,4 @@
 # hello-world
 Intro to github
 
-Hi everyone, this is Cristina. I'm trying GitHub to finish an assignment. Wish me luck!
+I study crop sciences and the assignment is for horticulture :0
